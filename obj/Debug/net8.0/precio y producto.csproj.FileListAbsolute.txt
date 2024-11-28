@@ -1,0 +1,14 @@
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\bin\Debug\net8.0\precio y producto.exe
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\bin\Debug\net8.0\precio y producto.deps.json
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\bin\Debug\net8.0\precio y producto.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\bin\Debug\net8.0\precio y producto.dll
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\bin\Debug\net8.0\precio y producto.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.dll
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\refint\precio y producto.dll
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\precio y producto.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\Github\precio y producto\obj\Debug\net8.0\ref\precio y producto.dll
